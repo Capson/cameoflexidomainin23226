@@ -3,12 +3,12 @@
     {
       "source": "/",       
       "destination": "/privacy-policy",       
-      "permanent": false     
+      "permanent": true     
     }
 ],
   "rewrites": [
     {
-      "source": "(/.*)",
+      "source": "/(.*)",
       "destination": "https://flexidomain.in/$1"
     }
   ]
