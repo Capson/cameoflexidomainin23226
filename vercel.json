@@ -1,5 +1,5 @@
 {
-  "redirects": [{"source": "/",       "destination": "/privacy-policy",       "permanent": true     },{"source": "/",       "destination": "/privacy-policy",       "permanent": true     },{"source": "/refund-policy",       "destination": "/terms-and-service",       "permanent": true     },{"source": "/",       "destination": "/#pricing",       "permanent": true     },{"source": "",       "destination": "",       "permanent": true     },{"source": "",       "destination": "",       "permanent": true     },{"source": "",       "destination": "",       "permanent": true     }
+  "redirects": [{"source": "/",       "destination": "/privacy-policy",       "permanent": true     },{"source": "/",       "destination": "/privacy-policy",       "permanent": true     },{"source": "/refund-policy",       "destination": "/terms-and-service",       "permanent": true     },{"source": "/",       "destination": "/#pricing",       "permanent": true     },{"source": "",       "destination": "",       "permanent": true     },{"source": "",       "destination": "",       "permanent": true     },{"source": "",       "destination": "",       "permanent": true     },{"source": "",       "destination": "",       "permanent": true     }
 ],
   "rewrites": [
     {
